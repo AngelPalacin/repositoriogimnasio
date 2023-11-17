@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VGym</string>
+    <string name="welcome">Welcome!</string>
+    <string name="login">Log In</string>
+    <string name="continue_offline">Continue Offline</string>
+    <string name="no_account_register">New in <i>VGym</i>? <u>Sign Up</u></string>
+    <string name="cathy_pham_attribution">Photo by CATHY PHAM on <a href="https://unsplash.com/@cathypham243">Unsplash</a></string>
+    <string name="john_fornander_attribution">Photo by John Fornander on <a href="https://unsplash.com/@johnfo">Unsplash</a></string>
+    <string name="steven_erixon_attribution">Photo by Steven Erixon on <a href="https://unsplash.com/@stevenerixon">Unsplash</a></string>
+    <string name="login_hint">Log in with a <i>VGym</i> account</string>
+    <string name="password_hint">Password</string>
+    <string name="login_fail">Email or password wrong</string>
+    <string name="fields_empty">All fields must be filled</string>
+    <string name="offline_not_implemented">Offline mode not implemented yet</string>
+    <string name="name_hint">Name</string>
+    <string name="surname_hint">Surname</string>
+    <string name="repeat_password_hint">Repeat password</string>
+    <string name="register">Register</string>
+    <string name="register_title">REGISTER</string>
+    <string name="signup_success">Signup success</string>
+    <string name="create_fbAccount_error">Register failed due to an unknown error</string>
+    <string name="password_not_equal">Passwords don\'t match</string>
+    <string name="edit_routine">Edit Routine</string>
+    <string name="add_favorites">Add to Favorites</string>
+    <string name="logout">Log Out</string>
+    <string name="main_menu_logout_desc">Log Out from the actual sesion</string>
+    <string name="main_menu_edit_routine_desc">Edit this routine</string>
+    <string name="main_menu_add_favorites_desc">Add to favorites this routine</string>
+    <string name="label_new_routine">New Routine</string>
+    <string name="label_routine">Routine</string>
+    <string name="label_profile">Profile</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="profile_menu_delete_account_desc">Delete this account</string>
+    <string name="loading_data">Loading data...</string>
+    <string name="no_routine">There isn\'t any routine to show</string>
+    <string name="next">Next</string>
+    <string name="new_routine_menu_next_desc">Go to the next step</string>
+    <string name="new_routine_name_hint">Give a name to the routine</string>
+    <string name="save_routine">Save</string>
+    <string name="new_routine_menu_create_desc">Create the routine</string>
+    <string-array name="days_array">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+    <string name="label_rest_day">Rest day</string>
+    <string name="workout_name_hint">Workout name</string>
+    <string name="add_exercise_label">Add Exercise</string>
+    <string name="add_exercise_label_btn_desc">Add a new exercise</string>
+    <string name="add_exercise_hint">Add an exercise</string>
+    <string name="rest">Rest</string>
+    <string name="rest_day_msg">Rest day!\n\nTry to move around a bit to keep your body active!</string>
+    <string name="ok">Ok</string>
+    <string name="new_exercise_menu_ok_desc">Add this exercise</string>
+    <string name="new_exercise_name_hint">Exercise name</string>
+    <string name="new_exercise_reps_hint">Repetitions</string>
+    <string name="new_exercise_sets_hint">Sets</string>
+    <string name="value_higher_than_zero">Fields value must be higher than 0</string>
+    <string name="error_workout_name_empty">Every workout must have a name or be a rest day</string>
+    <string name="error_exercises_list_empty">Every workout must have exercises or be a rest day</string>
+    <string name="options_label">Options</string>
+    <string name="copy_label">Copy</string>
+    <string name="clear_label">Clear</string>
+    <string name="copy_to_label">Copy to</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="no_changes_done">No changes were made</string>
+    <string name="del_favorites">Remove from Favorites</string>
+    <string name="main_menu_del_favorites_desc">Remove this routine from favorites</string>
+    <string name="no_selected_routine">There isn\'t any selected routine</string>
+    <string name="no_favorite_routine">There isn\'t any routine marked as favorite</string>
+    <string name="edit_profile_label">Edit Profile</string>
+    <string name="selected_routine_label">Selected Routine</string>
+    <string name="favourites_routines_label">Favorites Routines</string>
+    <string name="all_routines_label">All Routines</string>
+    <string name="caution">Caution!</string>
+    <string name="delete_routine_confirmation_text">Are you sure you want to delete the routine? This action cannot be undone.</string>
+    <string name="select_new_default_routine">Choose a new default routine</string>
+    <string name="delete_account_confirmation_text">Are you sure you want to delete your account? This action cannot be undone.</string>
+    <string name="delete_account_needs_restart">There was an error during the operation. Try to Log In again</string>
+    <string name="recover_last_routine">Recover last dismissed routine</string>
+    <string name="clear_cache">Clear Cache</string>
+    <string name="profile_menu_clear_cache_desc">Clear cache memory of the app</string>
+    <string name="reminder">Reminder</string>
+    <string name="reminder_desc">App reminders</string>
+    <string name="reminder_msg">Ready to give it all? Today it\'s</string>
+    <string name="password_invalid_size">Minimum of 6 characters</string>
+</resources>

@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">VGym</string>
+    <string name="welcome">¡Bienvenid@!</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="continue_offline">Continuar Offline</string>
+    <string name="no_account_register">¿Nuevo en <i>VGym</i>? <u>Regístrate</u></string>
+    <string name="cathy_pham_attribution">Imagen de CATHY PHAM en <a href="https://unsplash.com/@cathypham243">Unsplash</a></string>
+    <string name="john_fornander_attribution">Imagen de John Fornander en <a href="https://unsplash.com/@johnfo">Unsplash</a></string>
+    <string name="steven_erixon_attribution">Imagen de Steven Erixon en <a href="https://unsplash.com/@stevenerixon">Unsplash</a></string>
+    <string name="login_hint">Inicia sesión con una cuenta de <i>VGym</i></string>
+    <string name="email_hint" translatable="false">Email</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_fail">Email o contraseña incorrectos</string>
+    <string name="fields_empty">Todos los campos deben de ser rellenados</string>
+    <string name="offline_not_implemented">El modo offline todavía no está implementado</string>
+    <string name="name_hint">Nombre</string>
+    <string name="surname_hint">Apellidos</string>
+    <string name="repeat_password_hint">Repetir contraseña</string>
+    <string name="register">Registrarme</string>
+    <string name="register_title">REGISTRO</string>
+    <string name="signup_success">Registro completado</string>
+    <string name="create_fbAccount_error">Ha ocurrido un error desconocido</string>
+    <string name="password_not_equal">Las contraseñas no coinciden</string>
+    <string name="edit_routine">Editar Rutina</string>
+    <string name="add_favorites">Añadir a Favoritos</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="main_menu_logout_desc">Cerrar la sesión actual</string>
+    <string name="main_menu_edit_routine_desc">Editar esta rutina</string>
+    <string name="main_menu_add_favorites_desc">Añadir a favoritos esta rutina</string>
+    <string name="label_new_routine">Nueva Rutina</string>
+    <string name="label_routine">Rutina</string>
+    <string name="label_profile">Perfil</string>
+    <string name="delete_account">Eliminar Cuenta</string>
+    <string name="profile_menu_delete_account_desc">Eliminar esta cuenta</string>
+    <string name="loading_data">Cargando datos...</string>
+    <string name="no_routine">No hay ninguna rutina que mostrar</string>
+    <string name="next">Siguiente</string>
+    <string name="new_routine_menu_next_desc">Ir al siguiente paso</string>
+    <string name="new_routine_name_hint">Pon un nombre a la rutina</string>
+    <string name="placeholder" translatable="false">Placeholder</string>
+    <string name="save_routine">Guardar</string>
+    <string name="new_routine_menu_create_desc">Crear la rutina</string>
+    <string-array name="days_array">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miércoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sábado</item>
+        <item>Domingo</item>
+    </string-array>
+    <string name="label_rest_day">Día de descanso</string>
+    <string name="workout_name_hint">Nombre del entrenamiento</string>
+    <string name="add_exercise_label">Añadir Ejercicio</string>
+    <string name="add_exercise_label_btn_desc">Añadir un nuevo ejercicio</string>
+    <string name="add_exercise_hint">Añade un ejercicio</string>
+    <string name="rest">Descanso</string>
+    <string name="rest_day_msg">¡Día de descanso!\n\n¡Procura siempre moverte un poco aunque toque descansar!</string>
+    <string name="ok">Confirmar</string>
+    <string name="new_exercise_menu_ok_desc">Añadir este ejercicio</string>
+    <string name="new_exercise_name_hint">Nombre del ejercicio</string>
+    <string name="new_exercise_reps_hint">Repeticiones</string>
+    <string name="new_exercise_sets_hint">Series</string>
+    <string name="value_higher_than_zero">El valor de los campos debe ser mayor que 0</string>
+    <string name="error_workout_name_empty">Todos los entrenamientos tienen que tener un nombre o ser día de descanso</string>
+    <string name="error_exercises_list_empty">Todos los entrenamientos tienen que tener ejercicios o ser día de descanso</string>
+    <string name="options_label">Opciones</string>
+    <string name="copy_label">Copiar</string>
+    <string name="clear_label">Limpiar</string>
+    <string name="copy_to_label">Copiar a</string>
+    <string name="cancel_label">Cancelar</string>
+    <string name="no_changes_done">No se han realizado cambios en la rutina</string>
+    <string name="main_menu_del_favorites_desc">Quitar de favoritos esta rutina</string>
+    <string name="del_favorites">Eliminar de Favoritos</string>
+    <string name="no_selected_routine">No hay ninguna rutina seleccionada</string>
+    <string name="no_favorite_routine">No hay ninguna rutina añadida a favoritos</string>
+    <string name="edit_profile_label">Editar Perfil</string>
+    <string name="selected_routine_label">Rutina Seleccionada</string>
+    <string name="favourites_routines_label">Rutinas Favoritas</string>
+    <string name="all_routines_label">Todas las Rutinas</string>
+    <string name="caution">¡Atención!</string>
+    <string name="delete_routine_confirmation_text">¿Estás seguro de eliminar la rutina? Esta acción es irreversible.</string>
+    <string name="select_new_default_routine">Selecciona una nueva rutina por defecto</string>
+    <string name="delete_account_confirmation_text">¿Está seguro de eliminar su cuenta? Esta acción es irreversible.</string>
+    <string name="delete_account_needs_restart">No se ha podido realizar la operación. Pruebe a iniciar sesión de nuevo</string>
+    <string name="recover_last_routine">Recuperar última rutina descartada</string>
+    <string name="clear_cache">Limpiar Caché</string>
+    <string name="profile_menu_clear_cache_desc">Limpiar la memoria caché de la aplicación</string>
+    <string name="reminder">Recordatorio</string>
+    <string name="reminder_desc">Recordatorios de la aplicación</string>
+    <string name="reminder_msg">¡A machacar esos músculos! ¡Hoy toca</string>
+    <string name="password_invalid_size">Mínimo 6 caracteres</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
