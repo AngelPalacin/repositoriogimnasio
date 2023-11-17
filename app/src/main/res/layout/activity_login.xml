@@ -27,23 +27,4 @@
             />
     </com.google.android.material.textfield.TextInputLayout>
 
-    <com.google.android.material.textfield.TextInputLayout
-        android:id="@+id/loginPasswordLayout"
-        android:layout_width="300dp"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        app:endIconMode="password_toggle"
-        android:hint="@string/password_hint"
-        style="@style/LightInputOverDarkBg"
-        android:layout_marginTop="18.5dp">
-
-        <com.google.android.material.textfield.TextInputEditText
-            android:id="@+id/loginPasswordField"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:inputType="textPassword"
-            android:textColor="@color/surfaceL"
-            />
-    </com.google.android.material.textfield.TextInputLayout>
-
 </LinearLayout>
